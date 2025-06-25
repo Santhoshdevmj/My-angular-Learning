@@ -11,9 +11,7 @@ Understanding the Angular Component main.ts index.html
 🔹 1. index.html – The Starting Point
 This is the only HTML page served by your Angular app. The browser starts here.
 
-html
-Copy
-Edit
+
 <!-- src/index.html -->
 <!DOCTYPE html>
 <html lang="en">
