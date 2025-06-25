@@ -99,9 +99,7 @@ Lifecycle hooks
 
 
 🔁 Visual Diagram
-scss
-Copy
-Edit
+
 [Browser] ──> loads ──> [index.html]
                             ↓
                   contains <app-root>
