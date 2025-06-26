@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected title = 'angular-learning-app';
+  protected title = 'Devsanthosh Angular Learning App';
 }
